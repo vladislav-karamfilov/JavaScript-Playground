@@ -3,6 +3,9 @@
 #### A small app that allows you to draw triangles on a canvas and save them into the local storage of your browser and load them later.
 
 Original task description: [HackBulgaria's NodeJS course task to apply](https://github.com/HackBulgaria/NodeJS-1/blob/master/TasksForCourseApply/2-Canvas-Triangles.md)
+
+- - -
+
 ### Drawing Triangles On Canvas
 
 Implement a web application, that uses HTML5 Canvas where users can draw triangles in different colors.
